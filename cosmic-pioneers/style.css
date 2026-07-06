@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('fonts/Minecraft.ttf');
+}
+@font-face {
+    font-family: 'Curly Shirley';
+    src: url('fonts/Curly\ Shirley.ttf');
+}
+@font-face {
+    font-family: 'Bootzy TM';
+    src: url('fonts/BootzyTM.ttf');
+}
+@font-face {
+    font-family: 'Starry Type';
+    src: url('fonts/StarryType.ttf');
+}
+body {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+}
+
+    #home {
+        background-color: #FF6FB5;
+        background-image: radial-gradient(circle, #000000 4px, transparent 4px);
+        background-size: 32px 32px;
+        padding: 20px;
+        min-height: 100vh;
+    }
+    
+        h1 {
+            font-family: 'Minecraft', sans-serif;
+            color: #FF1493;
+            font-size: 3rem;
+            text-shadow: 0 0 5px #FF1493, 0 0 15px #FF1493, 0 0 30px #FF1493;
+        }
+    
+                h3 {
+                    font-family: 'Curly Shirley', cursive;
+                    color: #FF1493;
+                    text-shadow: 0 0 5px #FF1493, 0 0 15px #FF1493, 0 0 30px #FF1493;
+                }
+
+                                p {
+                                    font-family: 'Bootzy TM', sans-serif;
+                                    color: #FFFFFF;
+                                }
+
+
+                            
+                                
+
